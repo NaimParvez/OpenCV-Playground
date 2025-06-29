@@ -1,0 +1,36 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+env/
+venv/
+ENV/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled C/C++ files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+
+# Ignore OpenCV build folders
+build/
+dist/
+
+# Ignore user-specific files
+*.swp
+*.swo
+*.bak
+*.tmp
